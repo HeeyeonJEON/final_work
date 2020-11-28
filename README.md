@@ -5,4 +5,3 @@
 ### <그림 D3>
 ![df_crime_2019_norm](https://user-images.githubusercontent.com/73595608/100517591-f0ecb200-31ce-11eb-8e5a-d44203eb1b45.png)
 ### <그림 D4>
-![df_crime_2019_per_capita](https://user-images.githubusercontent.com/73595608/100521644-47b2b580-31e8-11eb-9321-9ed1fa852284.png)
