@@ -23,4 +23,4 @@
 <img width="300" alt="그림A3" src="https://user-images.githubusercontent.com/73595608/100538565-d7ea0c80-3273-11eb-9f99-1a5baac98a60.png">
 
 ### <그림 A4>
-<img width="150" alt="그림A4" src="https://user-images.githubusercontent.com/73595608/100538367-b6d4ec00-3272-11eb-8c49-b6a85ac6e714.png">
+<img width="170" alt="그림A4" src="https://user-images.githubusercontent.com/73595608/100538367-b6d4ec00-3272-11eb-8c49-b6a85ac6e714.png">
