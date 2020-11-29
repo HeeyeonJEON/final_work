@@ -14,13 +14,13 @@
 ![office_location](https://user-images.githubusercontent.com/73595608/100538518-9d806f80-3273-11eb-89aa-f17ad5e6b8b8.png)
 
 ### <그림 A1>
-![normalized_crime](https://user-images.githubusercontent.com/73595608/100538521-a40ee700-3273-11eb-8008-53d254d6cb70.png)
+<img width="600" alt="그림A1" src="https://user-images.githubusercontent.com/73595608/100538521-a40ee700-3273-11eb-8008-53d254d6cb70.png">
 
 ### <그림 A2>
-![normalized_arrest](https://user-images.githubusercontent.com/73595608/100538539-bdb02e80-3273-11eb-847a-1561ca0db4db.png)
+<img width="580" alt="그림A2" src="https://user-images.githubusercontent.com/73595608/100538539-bdb02e80-3273-11eb-847a-1561ca0db4db.png">
 
 ### <그림 A3>
-![hm_crime_corr](https://user-images.githubusercontent.com/73595608/100538565-d7ea0c80-3273-11eb-9f99-1a5baac98a60.png)
+<img width="300" alt="그림A3" src="https://user-images.githubusercontent.com/73595608/100538565-d7ea0c80-3273-11eb-9f99-1a5baac98a60.png">
 
 ### <그림 A4>
-![hm_crime](https://user-images.githubusercontent.com/73595608/100538367-b6d4ec00-3272-11eb-8c49-b6a85ac6e714.png)
+<img width="150" alt="그림A4" src="https://user-images.githubusercontent.com/73595608/100538367-b6d4ec00-3272-11eb-8c49-b6a85ac6e714.png">
