@@ -9,3 +9,4 @@
 ### <그림 D5>
 ![office_location](https://user-images.githubusercontent.com/73595608/100534103-ed990b00-324e-11eb-9611-e268e0c73f32.png)
 ### <그림 A1>
+![normalized_crime](https://user-images.githubusercontent.com/73595608/100536178-0eb72700-3262-11eb-9151-f5d19155e326.png)
