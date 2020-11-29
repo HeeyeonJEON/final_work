@@ -10,3 +10,5 @@
 ![office_location](https://user-images.githubusercontent.com/73595608/100534103-ed990b00-324e-11eb-9611-e268e0c73f32.png)
 ### <그림 A1>
 ![normalized_crime](https://user-images.githubusercontent.com/73595608/100536178-0eb72700-3262-11eb-9151-f5d19155e326.png)
+### <그림 A2>
+![normalized_arrest](https://user-images.githubusercontent.com/73595608/100536518-80907000-3264-11eb-95db-1140aac2f6f4.png)
