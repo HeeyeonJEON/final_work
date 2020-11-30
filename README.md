@@ -29,4 +29,7 @@
 <img width="240" alt="그림A5" src="https://user-images.githubusercontent.com/73595608/100542200-12f83a00-328c-11eb-967a-734f3a5fdaf9.png">
 
 ### <그림 F1>
-![murder_rate](https://user-images.githubusercontent.com/73595608/100598511-2b2a9080-3342-11eb-9d49-eb97282fdc35.png)
+![murder_case](https://user-images.githubusercontent.com/73595608/100598511-2b2a9080-3342-11eb-9d49-eb97282fdc35.png)
+
+### <그림 F2>
+![murder_rate](https://user-images.githubusercontent.com/73595608/100609803-f6263a00-3351-11eb-9d79-2a8466ad168b.png)
