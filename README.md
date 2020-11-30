@@ -33,3 +33,6 @@
 
 ### <그림 F2>
 ![murder_rate](https://user-images.githubusercontent.com/73595608/100609803-f6263a00-3351-11eb-9d79-2a8466ad168b.png)
+
+### <그림 F3>
+![murder_both](https://user-images.githubusercontent.com/73595608/100615138-80729c00-335a-11eb-94a7-c5e86486d365.png)
