@@ -36,3 +36,6 @@
 
 ### <그림 F3>
 ![murder_both](https://user-images.githubusercontent.com/73595608/100615138-80729c00-335a-11eb-94a7-c5e86486d365.png)
+
+### <그림 V1>
+![django_covid19_local](https://user-images.githubusercontent.com/73595608/100646161-030e5200-3381-11eb-884b-8dd59ed1a693.png)
