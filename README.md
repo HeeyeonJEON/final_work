@@ -41,4 +41,4 @@
 ![django_covid19_local](https://user-images.githubusercontent.com/73595608/100646161-030e5200-3381-11eb-884b-8dd59ed1a693.png)
 
 ### <그림 V2>
-![django_covid19](https://user-images.githubusercontent.com/73595608/100651960-9c416680-3389-11eb-82be-10b27077ada8.png)
+![django_covid19](https://user-images.githubusercontent.com/73595608/100661885-7b800d80-3397-11eb-8b90-07765e58ad46.png)
