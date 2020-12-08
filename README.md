@@ -23,7 +23,7 @@
 <img width="300" alt="그림A3" src="https://user-images.githubusercontent.com/73595608/100538565-d7ea0c80-3273-11eb-9f99-1a5baac98a60.png">
 
 ### <그림 A4>
-<img width="170" alt="그림A4" src="https://user-images.githubusercontent.com/73595608/100538367-b6d4ec00-3272-11eb-8c49-b6a85ac6e714.png">
+<img width="170" alt="그림A4" src="https://user-images.githubusercontent.com/73595608/101515367-a08d0580-39c1-11eb-9d2e-56d166884656.png">
 
 ### <그림 A5>
 <img width="240" alt="그림A5" src="https://user-images.githubusercontent.com/73595608/100542200-12f83a00-328c-11eb-967a-734f3a5fdaf9.png">
