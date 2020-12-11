@@ -38,7 +38,8 @@
 ![murder_both](https://user-images.githubusercontent.com/73595608/100615138-80729c00-335a-11eb-94a7-c5e86486d365.png)
 
 ### <그림 V1>
-![django_covid19_local](https://user-images.githubusercontent.com/73595608/100646161-030e5200-3381-11eb-884b-8dd59ed1a693.png)
+![django_covid19_local](https://user-images.githubusercontent.com/73595608/101900987-b4b84900-3bf3-11eb-847f-d187220fc240.png)
 
 ### <그림 V2>
-![django_covid19](https://user-images.githubusercontent.com/73595608/100661885-7b800d80-3397-11eb-8b90-07765e58ad46.png)
+![django_covid19](https://user-images.githubusercontent.com/73595608/101901029-c3066500-3bf3-11eb-9da0-9851ab9bdb40.png)
+
